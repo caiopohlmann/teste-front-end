@@ -10,5 +10,5 @@ Certifique-se de ter o [Node.js](https://nodejs.org/) instalado em sua máquina 
 cd teste-front-end
 
 USO
-  Para executar o projeto em   modo de desenvolvimento, use o seguinte comando:
-    npm run dev
+   npm install
+   npm run dev
